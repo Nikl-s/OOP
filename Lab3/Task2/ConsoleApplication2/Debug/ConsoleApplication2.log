@@ -1,0 +1,6 @@
+﻿  Pad.cpp
+  Phone.cpp
+C:\Users\Acer\Source\Repos\ConsoleApplication2\ConsoleApplication2\Phone.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Source\Repos\ConsoleApplication2\ConsoleApplication2\Phone.cpp(42,12): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\Acer\Source\Repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
